@@ -1,0 +1,5 @@
+    - name: Copy Ecomm code from git repo
+      git:
+        dest: /var/www/html/ecomm   
+        repo: https://github.com/ravi2krishna/ecomm.git
+

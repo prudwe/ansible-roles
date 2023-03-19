@@ -1,0 +1,4 @@
+---
+# tasks file for ecomm
+- import_tasks: gitinstall.yml
+- import_tasks: gitclone.yml
